@@ -9,3 +9,12 @@ Wer war Georg Simon Ohm und welchen, noch heute gültigen, Zusammenhang erkannte
 Nennen Sie drei Anwendungsbeispiele für die Verwendung von Elektrizität einschließlich ihrer Wirkungsweise.
 
 Wie wirkt die Lorentzkraft auf elektrische Ladungsträger.
+
+1) In vornehmen antiken Haushalten diente ein größerer Bernstein als Kleiderbürste; durch das Gleiten am Stoff lud er sich elektrostatisch auf und zog dann die Staubteilchen an sich
+2) Franklin wollte mit seinem Experiment bestätigen, dass es sich bei Blitzen um Elektrizität handelt. Er konnte sich nicht vorstellen, dass ein Metallstab auf einem hohen Gebäude den selben Effekt haben könnte, also ließ er einen gewöhnliche Papierdrachen mit einem dünnen Draht bei einem Gewitter steigen.
+3) Galvani entdeckte durch Experimente mit Froschschenkeln die Kontraktion von Muskeln, wenn diese mit Kupfer und Eisen in Berührung kamen, wobei auch Kupfer und Eisen verbunden sein mussten.
+4) Vom Schlosserlehrling zum Physik-Genie: Georg Simon Ohm erkannte den Zusammenhang zwischen Stromstärke, Spannung und Widerstand. Mit dem Ohmschen Gesetz legte er den Grundstein für Telegraphie, Elektronik und Mikroelektronik.
+5) Wechselstrom (AC)
+   Gleichstrom (DC)
+   Blitz.
+6) Die Lorentzkraft (fälschlicherweise oft Lorenzkraft oder Lorentz Kraft geschrieben) wirkt auf bewegte Ladungen in magnetischen Feldern. Sie wirkt dabei immer senkrecht zur Bewegungsrichtung. ... Bewegt sich das geladene Teilchen parallel zu den Magnetfeldlinien wirkt die Lorentzkraft nicht.
